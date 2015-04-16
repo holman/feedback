@@ -1,8 +1,3 @@
-# MPagel/feedback
-# forked from: holman/feedback
-
-This is a quick little ask-me-anything type of repository.
-
 ### Ask a question or report a bug
 
 Please [create a new issue](./feedback/issues/new) on this
