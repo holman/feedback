@@ -3,7 +3,7 @@ Please [create a new issue](../../issues/new) on this project.
 
 I'll try to respond as soon as I can get to it. if you have any further questions just respond in the thread created and I'll get back to you soon. Feel free to ask a question on any old issue too, even if you didn't create the issue and even if it is marked as closed.
 
-If you have any technical problems with Git or GitHub, rather than this project specifically, [ask GitHub Support directly](https://github.com/contact).
+If you have any technical problems with Git or GitHub, rather than this project specifically, [ask GitHub Support](https://github.com/contact) directly.
 
 ### Read any "closed" bugs or other feedback
 Check out the [closed issues](../../issues?sort=created&direction=desc&state=closed&page=1)
@@ -25,4 +25,4 @@ Open or closed, bug or kind words, you can find it [here](../../issues?q=is%3Ais
 This project repository was forked from http://github.com/holman/feedback, but that project page had the pesky little problem of using absolute, rather than relative links, making it nigh impossible to port to other users or other projects without significant editing. It also didn't have nearly so many cool, helpful links ;) Basically, I intend to use this page as an outline for a feedback page on all my sub-projects and only have to edit one or two links. I'll try to push it back to the original author's project repository, but there are no guarantees in life.
 
 ### Link to other repos by this author
-You can direct readers to your page, listing all your repositories by [linking this](../../../), rather than [hardcoding that link](http://github.com/MPagel)
+You can direct readers to your page, listing all your repositories by [linking this](../../../), rather than [hardcoding that link](http://github.com/MPagel).
