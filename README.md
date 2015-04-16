@@ -1,6 +1,6 @@
 ### Ask a question or report a bug
 
-Please [create a new issue](./feedback/issues/new) on this
+Please [create a new issue](./issues/new) on this
 project.
 
 I'll try to answer it as soon as I can get to it. if you have any further
