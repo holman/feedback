@@ -2,7 +2,7 @@
 
 A repository to ask [@holman](https://twitter.com/holman) anything.
 
-I [worked at GitHub](http://zachholman.com/about) for five years and have [written](http://zachholman.com) and [spoken](http://zachholman.com/talks) a lot about building company culture, improving your development workflow, and really important shit like emoji. If you have a question you're interested in reading me tap out a response for, this is just the joint for you.
+I [worked at GitHub](http://zachholman.com/about) for five years and have [written](http://zachholman.com) and [spoken](http://zachholman.com/talks) a lot about building company culture, improving your development workflow, and really important shit like emoji. If you have a question you're interested in me reading tap out a response for, this is just the joint for you.
 
 ### Ask a question
 
